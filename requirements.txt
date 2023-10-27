@@ -1,5 +1,1 @@
 Flask
-# for installing requiremens.txt file always remember this thing
-# 1. file name should be "requirements.txt" 
-# 2. it should be saved before runnning
-# 3. then type "pip install -r requirements.txt"
